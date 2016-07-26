@@ -10,7 +10,7 @@ reload(sys)
 sys.setdefaultencoding( "utf-8" )
 
 
-# 第三方 SMTP 服务  注意这是企业邮箱  如果是个人邮箱，密码要用授权码，pop服务器地址没有exmail
+# 第三方 SMTP 服务  注意这是企业邮箱配置  如果是个人邮箱，密码要用授权码，pop服务器地址没有exmail
 mail_smtp_host= "smtp.exmail.qq.com"  		# 设置smtp服务器  
 mail_pop_host= "pop.exmail.qq.com"			# 设置pop服务器
 mail_user= ""    		# 用户名  
