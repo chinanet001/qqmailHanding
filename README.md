@@ -3,5 +3,6 @@ python实现自动登录到qq邮箱，对接收的邮件遍历将其中特定主
 
 
 > 将其余脚本迁移到[练习爬虫的小项目](https://github.com/zhongkouwei/reptile-learning)。
+ 包含
   * 破解ZIP密码
   * 微博信息爬取
